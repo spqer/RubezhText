@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<FavoriteAndLastInserted xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LastInsertedItemArticle>RBZ-091601</LastInsertedItemArticle>
+  <FavoriteEquipmentArticles />
+  <LastEquipment>
+    <SerializableItem>
+      <Article>RBZ-091601</Article>
+      <MountingHeight>2</MountingHeight>
+      <CableHeight>0</CableHeight>
+      <Power>0</Power>
+      <BgNoise>0</BgNoise>
+      <SplReserve>0</SplReserve>
+      <InsertTime>2022-07-29T00:24:14.0006237+03:00</InsertTime>
+      <CustomDescr />
+      <IsEnableCustomDescr>true</IsEnableCustomDescr>
+    </SerializableItem>
+    <SerializableItem>
+      <Article>RBZ-091592</Article>
+      <MountingHeight>2</MountingHeight>
+      <CableHeight>0</CableHeight>
+      <Power>0</Power>
+      <BgNoise>0</BgNoise>
+      <SplReserve>0</SplReserve>
+      <InsertTime>2022-07-29T00:24:02.9060697+03:00</InsertTime>
+      <CustomDescr />
+      <IsEnableCustomDescr>true</IsEnableCustomDescr>
+    </SerializableItem>
+    <SerializableItem>
+      <Article>RBZ-317532</Article>
+      <MountingHeight>1.5</MountingHeight>
+      <CableHeight>1.5</CableHeight>
+      <Power>0</Power>
+      <BgNoise>0</BgNoise>
+      <SplReserve>0</SplReserve>
+      <InsertTime>2022-07-28T23:56:23.6998797+03:00</InsertTime>
+      <CustomDescr />
+      <IsEnableCustomDescr>false</IsEnableCustomDescr>
+    </SerializableItem>
+    <SerializableItem>
+      <Article>RBZ-170093</Article>
+      <MountingHeight>2</MountingHeight>
+      <CableHeight>0</CableHeight>
+      <Power>0</Power>
+      <BgNoise>0</BgNoise>
+      <SplReserve>0</SplReserve>
+      <InsertTime>2022-07-28T23:52:17.8926448+03:00</InsertTime>
+      <CustomDescr />
+      <IsEnableCustomDescr>false</IsEnableCustomDescr>
+    </SerializableItem>
+    <SerializableItem>
+      <Article>RBZ-337602</Article>
+      <MountingHeight>2</MountingHeight>
+      <CableHeight>3</CableHeight>
+      <Power>0</Power>
+      <BgNoise>0</BgNoise>
+      <SplReserve>0</SplReserve>
+      <InsertTime>2022-07-28T23:45:00.5877634+03:00</InsertTime>
+      <CustomDescr />
+      <IsEnableCustomDescr>false</IsEnableCustomDescr>
+    </SerializableItem>
+    <SerializableItem>
+      <Article>RBZ-084368</Article>
+      <MountingHeight>1.5</MountingHeight>
+      <CableHeight>1.5</CableHeight>
+      <Power>0</Power>
+      <BgNoise>0</BgNoise>
+      <SplReserve>0</SplReserve>
+      <InsertTime>2022-07-28T23:38:09.3905858+03:00</InsertTime>
+      <CustomDescr />
+      <IsEnableCustomDescr>false</IsEnableCustomDescr>
+    </SerializableItem>
+    <SerializableItem>
+      <Article>RBZ-337473</Article>
+      <MountingHeight>2</MountingHeight>
+      <CableHeight>30</CableHeight>
+      <Power>0</Power>
+      <BgNoise>0</BgNoise>
+      <SplReserve>0</SplReserve>
+      <InsertTime>2022-07-27T21:02:01.8398384+03:00</InsertTime>
+      <CustomDescr />
+      <IsEnableCustomDescr>false</IsEnableCustomDescr>
+    </SerializableItem>
+    <SerializableItem>
+      <Article>RBZ-092565</Article>
+      <MountingHeight>1.5</MountingHeight>
+      <CableHeight>1.5</CableHeight>
+      <Power>0</Power>
+      <BgNoise>0</BgNoise>
+      <SplReserve>0</SplReserve>
+      <InsertTime>2022-07-27T21:01:43.6005087+03:00</InsertTime>
+      <CustomDescr />
+      <IsEnableCustomDescr>false</IsEnableCustomDescr>
+    </SerializableItem>
+  </LastEquipment>
+</FavoriteAndLastInserted>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>bb580243-a1a4-46d2-83ab-4d6b8ec41fbc</ID>
+  <HasRVi>false</HasRVi>
+  <HasSonar>false</HasSonar>
+  <HasStrazh>false</HasStrazh>
+  <IsGlobal>false</IsGlobal>
+  <IsRubezh>true</IsRubezh>
+  <ProjectFolderPath>C:\Users\Денис\YandexDisk\Py\pythonProject1\Demo</ProjectFolderPath>
+  <ProjectName>Demo</ProjectName>
+  <DwgFiles>
+    <ProjectFile>
+      <FileName>Demo.dwg</FileName>
+      <DrawingRatioFrom>1</DrawingRatioFrom>
+      <PrintRatioFrom>1</PrintRatioFrom>
+      <DrawingRatioTo>1</DrawingRatioTo>
+      <PrintRatioTo>100</PrintRatioTo>
+      <IsSelected>false</IsSelected>
+      <Id>2099619938</Id>
+      <IsDwgNew>false</IsDwgNew>
+      <AddToProjDate>2022-07-27T21:01:01.7164576+03:00</AddToProjDate>
+    </ProjectFile>
+  </DwgFiles>
+  <CreationDate>2022-07-27T21:00:58.0837921+03:00</CreationDate>
+  <LastAccessTime>2022-07-27T21:01:01.7174543+03:00</LastAccessTime>
+  <SortColHeader />
+  <SortColDirection />
+</Project>

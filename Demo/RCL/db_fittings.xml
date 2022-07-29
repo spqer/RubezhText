@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EquipmentList version="2">
+  <Equipment article="$$$20000" idCat="10000" type="box" manufacturer="" positType="incr" positText="XD" name="Коробка" ugoName="RC-UGO-BOX"/>
+  <Equipment article="$$$20001" idCat="200" type="riser" brand="Стояк" positType="none" name="Стояк" ugoName="RC-UGO-RISER" />
+	<Equipment article="$$$20002" idCat="200" type="riser" brand="Стояк снизу" positType="none" name="Стояк" ugoName="RC-UGO-RISER-01" />
+	<Equipment article="$$$20003" idCat="200" type="riser" brand="Стояк снизу вверх" positType="none" name="Стояк" ugoName="RC-UGO-RISER-02" />
+	<Equipment article="$$$20004" idCat="200" type="riser" brand="Стояк вверх" positType="none" name="Стояк" ugoName="RC-UGO-RISER-03" />
+	<Equipment article="$$$20005" idCat="200" type="riser" brand="Стояк вниз" positType="none" name="Стояк" ugoName="RC-UGO-RISER-04" />
+	<Equipment article="$$$20006" idCat="200" type="riser" brand="Стояк сверху вниз" positType="none" name="Стояк" ugoName="RC-UGO-RISER-05" />
+	<Equipment article="$$$20007" idCat="200" type="riser" brand="Стояк сверху" positType="none" name="Стояк" ugoName="RC-UGO-RISER-06" />
+	<Equipment article="$$$20008" idCat="200" type="riser" brand="Стояк вверх и вниз" positType="none" name="Стояк" ugoName="RC-UGO-RISER-07" />
+  <Equipment article="$$$20010" idCat="201" type="break" brand="Разрыв" positType="none" name="Разрыв" ugoName="RC-UGO-BREAK"/>
+	<Equipment article="$$$20011" idCat="202" type="unit" brand="Узел" positType="incr" name="Узел" ugoName="RC-UGO-UNIT-01"/>
+</EquipmentList>

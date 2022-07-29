@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Categories version="1.3">
+	<!-- НЕАДРЕСНЫЕ ИЗВЕЩАТЕЛИ  -->
+	<Category>
+		<CatItem ugoName="RC-UGO-IDTN-01" />
+		<CatItem ugoName="RC-UGO-IDTN-PP-02" />
+		<CatItem ugoName="RC-UGO-IDTN-02" />
+		<CatItem ugoName="RC-UGO-IDLNI-01" />
+		<CatItem ugoName="RC-UGO-IDLNI-02" />
+		<CatItem ugoName="RC-UGO-IDLNP-01" />
+		<CatItem ugoName="RC-UGO-IDLNP-02" />
+		<CatItem ugoName="RC-UGO-ITTN-01" />
+		<CatItem ugoName="RC-UGO-ITTN-02" />
+		<CatItem ugoName="RC-UGO-IKN-01" />
+		<CatItem ugoName="RC-UGO-IKN-02" />
+		<CatItem ugoName="RC-UGO-IPN-01" />
+		<CatItem ugoName="RC-UGO-IPN-02" />
+		<CatItem ugoName="RC-UGO-IRN-01" />
+		<CatItem ugoName="RC-UGO-IRN-02" />
+		<CatItem ugoName="RC-UGO-IOM-01" />
+		<CatItem ugoName="RC-UGO-IOZ-01" />
+		<CatItem ugoName="RC-UGO-IOAI-01" />
+		<CatItem ugoName="RC-UGO-IOAP-01" />
+		<CatItem ugoName="RC-UGO-IOPP-01" />
+		<CatItem ugoName="RC-UGO-IOPO-01" />
+		<CatItem ugoName="RC-UGO-IOPL-01" />
+		<CatItem ugoName="RC-UGO-IOK-01" />
+		<CatItem ugoName="RC-UGO-IOTR-01" />
+		<CatItem ugoName="RC-UGO-IOTN-01" />
+		<CatItem ugoName="RC-UGO-IOUK-01" />
+		<CatItem ugoName="RC-UGO-IOUZ-01" />
+		<CatItem ugoName="RC-UGO-IORI-01" />
+		<CatItem ugoName="RC-UGO-IORP-01" />
+	</Category>
+	<!-- ИНТЕРФЕЙСНЫЕ МОДУЛИ -->
+	<Category>
+		<CatItem ugoName="RC-UGO-MS-01" />
+		<CatItem ugoName="RC-UGO-MS-02" />
+		<CatItem ugoName="RC-UGO-MS-03" />
+		<CatItem ugoName="RC-UGO-MS-04" />
+		<CatItem ugoName="RC-UGO-MS-05" />
+		<CatItem ugoName="RC-UGO-MS-06" />
+		<CatItem ugoName="RC-UGO-MS-07" />
+		<CatItem ugoName="RC-UGO-MS-08" />
+		<CatItem ugoName="RC-UGO-MS-09" />
+		<CatItem ugoName="RC-UGO-MS-10" />
+		<CatItem ugoName="RC-UGO-MS-11" />
+	</Category>
+	<!-- ПРИБОРЫ ПОЖАРНЫЕ -->
+	<Category>
+		<CatItem ugoName="RC-UGO-PUU-02"/>
+		<CatItem ugoName="RC-UGO-PUU-01"/>
+		<CatItem ugoName="RC-UGO-BKI-01"/>
+		<CatItem ugoName="RC-UGO-BKI-02"/>
+		<CatItem ugoName="RC-UGO-PPK-02"/>
+	</Category>
+	<!-- УСТРОЙСТВА ДИСТАНЦИОННОГО ПУСКА -->
+	<Category>
+		<CatItem ugoName="RC-UGO-UDPD-01" />
+		<CatItem ugoName="RC-UGO-UDPP-01" />
+	</Category>
+	<!-- ОПОВЕЩАТЕЛИ СВЕТОВЫЕ -->
+	<Category>
+		<CatItem ugoName="RC-UGO-OS-01" />
+		<CatItem ugoName="RC-UGO-OS-02" />
+		<CatItem ugoName="RC-UGO-OS-03" />
+		<CatItem ugoName="RC-UGO-OS-04" />
+		<CatItem ugoName="RC-UGO-OS-05" />
+		<CatItem ugoName="RC-UGO-OS-06" />
+		<CatItem ugoName="RC-UGO-OS-07" />
+	</Category>
+	<!-- ОПОВЕЩАТЕЛИ РЕЧЕВЫЕ , АКУСТИЧЕСКИЕ СИСТЕМЫ  -->
+	<Category>
+		<CatItem ugoName="RC-UGO-OR-01" />
+		<CatItem ugoName="RC-UGO-OR-02" />
+		<CatItem ugoName="RC-UGO-OR-03" />
+	</Category>
+	<!-- ОПОВЕЩАТЕЛИ ЗВУКОВЫЕ -->
+	<Category>
+		<CatItem ugoName="RC-UGO-OZ-01" />
+		<CatItem ugoName="RC-UGO-OZ-02" />
+	</Category>
+	<!-- ОПОВЕЩАТЕЛИ КОМБИНИРОВАННЫЕ -->
+	<Category>
+		<CatItem ugoName="RC-UGO-OK-01" />
+		<CatItem ugoName="RC-UGO-OK-02" />
+		<CatItem ugoName="RC-UGO-OK-10" />
+	</Category>
+	<!-- УСТРОЙСТВА ПРОПУСКНЫЕ -->
+	<Category>
+		<CatItem ugoName="RC-UGO-SHL-01" />
+		<CatItem ugoName="RC-UGO-TUR-01" />
+	</Category>
+	<!-- КОНТРОЛЛЕРЫ СКУД -->
+	<Category>
+		<CatItem ugoName="RC-UGO-CONTR-01" />
+		<CatItem ugoName="RC-UGO-CONTR-02" />
+	</Category>
+	<!-- УСТРОЙСТВА СЧИТЫВАЮЩИЕ -->
+	<Category>
+		<CatItem ugoName="RC-UGO-SCH-01" />
+		<CatItem ugoName="RC-UGO-SCH-02" />
+	</Category>
+	<!-- УСТРОЙСТВА СКУД ИСПОЛНИТЕЛЬНЫЕ -->
+	<Category>
+		<CatItem ugoName="RC-UGO-DOV-02" />
+		<CatItem ugoName="RC-UGO-ZAM-01" />
+		<CatItem ugoName="RC-UGO-ZAM-02" />
+		<CatItem ugoName="RC-UGO-ZSH-01" />
+	</Category>
+	<!-- КНОПКИ -->
+	<Category>
+		<CatItem ugoName="RC-UGO-SBTN-01" />
+	</Category>
+	<!-- ВЕНТИЛЯТОРЫ -->
+	<Category>
+		<CatItem ugoName="RC-UGO-VENT-01" />
+		<CatItem ugoName="RC-UGO-VENT-01" />
+	</Category>
+	<!-- КЛАПАНЫ ДЫМОУДАЛЕНИЯ -->
+	<Category>
+		<CatItem ugoName="RC-UGO-KLAP-01" />
+	</Category>
+	<!-- КНОПКИ ? (было выше) -->
+	<Category>
+		<CatItem ugoName="RC-UGO-BTN-01" />
+	</Category>
+	<!-- ЭЛЕМЕНТЫ ДИСТАНЦИОННОГО УПРАВЛЕНИЯ -->
+	<Category>
+		<CatItem ugoName="RC-UGO-EDU-01" />
+	</Category>
+	<!-- ИВЭПРы -->
+	<Category>
+		<CatItem ugoName="RC-UGO-IP12-01" />
+		<CatItem ugoName="RC-UGO-IP24-01" />
+	</Category>
+	<!-- БОКСЫ РЕЗЕРВНОГО ЭЛЕКТРОПИТАНИЯ -->
+	<Category>
+		<CatItem ugoName="RC-UGO-BRP-01" />
+	</Category>
+	<!-- Куда отнести, к интерейсным? -->
+	<Category>
+		<CatItem ugoName="RC-UGO-UOO-01" />
+	</Category>
+	<!-- МОДУЛИ ПОЖАРОТУШЕНИЯ -->
+	<Category>
+		<CatItem ugoName="RC-UGO-MPP-01" />
+		<CatItem ugoName="RC-UGO-MPP-02" />
+		<CatItem ugoName="RC-UGO-MPP-03" />
+		<CatItem ugoName="RC-UGO-MPP-04" />
+		
+		<CatItem ugoName="RC-UGO-MPG-01" />
+		<CatItem ugoName="RC-UGO-MPG-02" />
+		<CatItem ugoName="RC-UGO-MPG-03" />
+		<CatItem ugoName="RC-UGO-MPG-04" />
+		
+		<CatItem ugoName="RC-UGO-MPW-01" />
+		<CatItem ugoName="RC-UGO-MPW-02" />
+		<CatItem ugoName="RC-UGO-MPW-03" />
+		<CatItem ugoName="RC-UGO-MPW-04" />
+	</Category>
+	<!-- ПРИБОРЫ ОПОВЕЩЕНИЯ КОНТРОЛЬНО-ПРИЁМНЫЕ ? -->
+	<Category>
+		<CatItem ugoName="RC-UGO-SNR-01"/>
+	</Category>
+	<!-- МИКРОФОНЫ ? -->
+	<Category>
+		<CatItem ugoName="RC-UGO-MIC-01" />
+	</Category>
+	<!-- Мне кажется, что в зависимости от того, в какой системе используется компьютер, он может называться по-разному, в пожарке это может быть ЦПИУ -->
+	<Category>
+		<CatItem ugoName="RC-UGO-PC-01" />
+		<CatItem ugoName="RC-UGO-PC-02" />
+		<CatItem ugoName="RC-UGO-PC-03" />
+		<CatItem ugoName="RC-UGO-PC-04" />
+		<CatItem ugoName="RC-UGO-PC-05" />
+	</Category>
+	<!-- ПРИБОРЫ ОПОВЕЩЕНИЯ КОНТРОЛЬНО-ПРИЁМНЫЕ ? -->
+	<Category>
+		<CatItem ugoName="RC-UGO-BS-01" />
+	</Category>
+	<!-- УСТРОЙСТВА ПЕРЕГОВОРНЫЕ (это к СКУДу и к СОУЭ? ) -->
+	<Category>
+		<CatItem ugoName="RC-UGO-VP-01" />
+	</Category>
+	<!-- УСТРОЙСТВА ПЕРЕДАЧИ ИЗВЕЩЕНИЙ -->
+	<Category>
+		<CatItem ugoName="RC-UGO-UPI-01" />
+	</Category>
+	<!-- КАМЕРЫ ВИДЕОНАБЛЮДЕНИЯ -->
+	<Category>
+		<CatItem ugoName="RC-UGO-CAM-01" />
+		<CatItem ugoName="RC-UGO-CAM-02" />
+		<CatItem ugoName="RC-UGO-CAM-03" />
+	</Category>
+	<!-- КОММУТАТОРЫ СЕТЕВЫЕ -->
+	<Category>
+		<CatItem ugoName="RC-UGO-COM-01" />
+	</Category>
+	<!-- ВИДЕОРЕГИСТРАТОРЫ -->
+	<Category>
+		<CatItem ugoName="RC-UGO-CCR-01" />
+	</Category>
+	<!-- МОНИТОРЫ ВИДЕОНАБЛЮДЕНИЯ -->
+	<Category>
+		<CatItem ugoName="RC-UGO-MON-01" />
+	</Category>
+	<!-- МАГИСТРАЛЬНЫЕ ПОВТОРИТЕЛИ -->
+	<Category>
+		<CatItem ugoName="RC-UGO-PR-01" />
+	</Category>
+</Categories>

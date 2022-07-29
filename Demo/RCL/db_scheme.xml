@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SchemeList version="1.20">
+	<Scheme id="1" blockName="RC-TSP-RUBEZH-MPT1-1">
+		<Block optionID="1" optionName="МПТ-1 прот.R3"  format="A4#V"/>
+		<Block optionID="2" optionName="МПТ-1 прот.R3 + ОПОП + ИП212 + ИО102..(СМК) + ЭДУ + МПП + ДД + ДМ"  format="A3#H"/>
+		<Block optionID="3" optionName="МПТ-1 прот.R3 + ИП212 + ИО102..(СМК) + ЭДУ + 5хМПП + ДД + ДМ"  format="A3#H"/>
+		<Block optionID="4" optionName="Ведомый МПТ-1 прот.R3 + 5хМПП"  format="A3#H"/>
+	</Scheme>
+	<Scheme id="2" blockName="RC-TSP-RUBEZH-RM4K-1">
+		<Block optionID="1" optionName="РМ-4К прот.R3"  format="A3#H"/>
+		<Block optionID="2" optionName="РМ-4К прот.R3 + ОПОП1-8"  format="A3#H"/>
+		<Block optionID="3" optionName="РМ-4К прот.R3 + ОПОП1-8 + ОПОП1-8"  format="A3#H"/>
+		<Block optionID="4" optionName="РМ-4К прот.R3 + ОПОП2-35"  format="A3#H"/>
+		<Block optionID="5" optionName="РМ-4К прот.R3 + ОПОП2-35 + ОПОП2-35"  format="A3#H"/>
+		<Block optionID="6" optionName="РМ-4К прот.R3 + ОПОП1-8 + ОПОП2-35"  format="A3#H"/>
+		<Block optionID="7" optionName="РМ-4К прот.R3 + ОПОП1-8 + ОПОП1-8 + ОПОП2-35 + ОПОП2-35"  format="A3#H"/>
+		<Block optionID="8" optionName="РМ-4К прот.R3 + ОПОП124-7(один выход)"  format="A3#H"/>
+		<Block optionID="9" optionName="РМ-4К прот.R3 + ОПОП124-7(один выход) + ОПОП124-7(один выход)"  format="A3#H"/>
+		<Block optionID="10" optionName="РМ-4К прот.R3 + ОПОП124-7(два выхода)"  format="A3#H"/>
+		<Block optionID="11" optionName="РМ-4К прот.R3 + ОПОП124-7(два выхода) + ОПОП124-7(два выхода)"  format="A3#H"/>
+		<Block optionID="12" optionName="РМ-4К прот.R3 + ОПОП1-8 + ОПОП1-8 + ОПОП2-35 + ОПОП2-35 + ОПОП124-7(один выход)"  format="A3#H"/>
+		<Block optionID="13" optionName="РМ-4К прот.R3 + ОПОП1-8 + ОПОП1-8 + ОПОП2-35 + ОПОП2-35 + ОПОП124-7(два выхода)"  format="A3#H"/>
+		<Block optionID="14" optionName="РМ-4К прот.R3 + ОПОП124-7(один выход) + ОПОП1-8"  format="A3#H"/>
+		<Block optionID="15" optionName="РМ-4К прот.R3 + ОПОП124-7(два выхода) + ОПОП1-8"  format="A3#H"/>
+		<Block optionID="16" optionName="РМ-4К прот.R3 + ОПОП124-7(один выход) + ОПОП2-35"  format="A3#H"/>
+		<Block optionID="17" optionName="РМ-4К прот.R3 + ОПОП124-7(два выхода) + ОПОП2-35"  format="A3#H"/>
+		<Block optionID="18" optionName="РМ-4К прот.R3 + МПП"  format="A3#H"/>
+	</Scheme>
+	<Scheme id="3" blockName="RC-TSP-RUBEZH-RM1K-1">
+		<Block optionID="1" optionName="РМ-1К прот.R3"  format="A3#H"/>
+		<Block optionID="2" optionName="РМ-1К прот.R3 + ОПОП2-35"  format="A3#H"/>
+		<Block optionID="3" optionName="РМ-1К прот.R3 + ОПОП2-35 + ОПОП2-35"  format="A3#H"/>
+		<Block optionID="4" optionName="РМ-1К прот.R3 + ОПОП1-8"  format="A3#H"/>
+		<Block optionID="5" optionName="РМ-1К прот.R3 + ОПОП1-8 + ОПОП1-8"  format="A3#H"/>
+		<Block optionID="6" optionName="РМ-1К прот.R3 + ОПОП124-7"  format="A3#H"/>
+		<Block optionID="7" optionName="РМ-1К прот.R3 + ОПОП124-7 + ОПОП124-7"  format="A3#H"/>
+		<Block optionID="8" optionName="РМ-1К прот.R3 + ОПОП2-35 + ОПОП124-7"  format="A3#H"/>
+		<Block optionID="9" optionName="РМ-1К прот.R3 + ОПОП1-8 + ОПОП124-7"  format="A3#H"/>
+		<Block optionID="10" optionName="РМ-1К  прот.R3 + МПП"  format="A3#H"/>
+	</Scheme>
+	<Scheme id="4" blockName="RC-TSP-RUBEZH-RM1-1">
+		<Block optionID="1" optionName="РМ-1 прот.R3" format="A4#V"/>
+	</Scheme>
+	<Scheme id="5" blockName="RC-TSP-RUBEZH-RM1-1">
+		<Block optionID="2" optionName="РМ-1С прот.R3" format="A4#V"/>
+	</Scheme>
+	<Scheme id="6" blockName="RC-TSP-RUBEZH-RM4-1">
+		<Block optionID="1" optionName="РМ-4 прот.R3" format="A4#V" isDynBlock="false"/>
+	</Scheme>
+	<Scheme id="7" blockName="RC-TSP-RUBEZH-AM1-1">
+		<Block optionID="1" optionName="АМ-1 прот.R3" format="A3#H"/>
+		<Block optionID="2" optionName="АМ-1 прот.R3 + Тепловой извещатель" format="A3#H"/>
+		<Block optionID="3" optionName="АМ-1 прот.R3 + ИПДЛ-Д-II/4p" format="A3#H"/>
+		<Block optionID="4" optionName="АМ-1 прот.R3 + (СПЖ, СДУ ит.д) (НЗ)" format="A3#H"/>
+		<Block optionID="5" optionName="АМ-1 прот.R3 + ИО102..(СМК)" format="A3#H"/>
+		<Block optionID="6" optionName="АМ-1 прот.R3 + Астра-5" format="A3#H"/>
+		<Block optionID="7" optionName="АМ-1 прот.R3 + Астра-С" format="A3#H"/>
+		<Block optionID="8" optionName="АМ-1 прот.R3 + СМК + Астра-С + Астра-5" format="A3#H"/>
+	</Scheme>
+	<Scheme id="8" blockName="RC-TSP-RUBEZH-AM4-1">
+		<Block optionID="1" optionName="АМ-4 прот.R3" format="A3#H"/>
+		<Block optionID="2" optionName="АМ-4 прот.R3 + ИПДЛ-Д-II/4p" format="A3#H"/>
+		<Block optionID="3" optionName="АМ-4 прот.R3 + ИП101.. (НЗ)" format="A3#H"/>
+		<Block optionID="4" optionName="АМ-4 прот.R3 + ИО102..(СМК)" format="A3#H"/>
+		<Block optionID="5" optionName="АМ-4 прот.R3 + Астра-5" format="A3#H"/>
+		<Block optionID="6" optionName="АМ-4 прот.R3 + Астра-С" format="A3#H"/>
+		<Block optionID="7" optionName="АМ-4 прот.R3 + ИО102..(СМК) + Астра-5 + Астра-С" format="A3#H"/>
+		<Block optionID="8" optionName="АМ-4 прот.R3 + (СПЖ, СДУ ит.д) (НЗ)" format="A3#H"/>
+		<Block optionID="9" optionName="АМ-4 прот.R3 + ИП101.. + ИПДЛ-Д-II/4p + ИО" format="A3#H"/>
+	</Scheme>
+	<Scheme id="9" blockName="RC-TSP-RUBEZH-AMP4-1">
+		<Block optionID="1" optionName="АМП-4 прот.R3" format="A4#H"/>
+		<Block optionID="2" optionName="АМП-4 прот.R3 + ИП212.." format="A2#H"/>
+		<Block optionID="3" optionName="АМП-4 прот.R3 + ИП212.. + ОПОП2-35" format="A2#H"/>
+		<Block optionID="4" optionName="АМП-4 прот.R3 + ИП212.. + ОПОП2-35 + ОПОП1-8" format="A2#H"/>
+		<Block optionID="5" optionName="АМП-4 прот.R3 + ИП101.." format="A2#H"/>
+		<Block optionID="6" optionName="АМП-4 прот.R3 + ИП101.. + ОПОП2-35" format="A2#H"/>
+		<Block optionID="7" optionName="АМП-4 прот.R3 + ИП101.. + ОПОП2-35 + ОПОП1-8" format="A2#H"/>
+		<Block optionID="8" optionName="АМП-4 прот.R3 + ИП212.. + ИП101.. + ОПОП2-35 + ОПОП1-8" format="A2#H"/>
+		<Block optionID="9" optionName="АМП-4 прот.R3 + ИП212-52 + ОПОП2-35 + ОПОП1-8" format="A2#H"/>
+		<Block optionID="10" optionName="АМП-4 прот.R3 + Спектрон-401 + ОПОП2-35 + ОПОП1-8" format="A2#H"/>
+		<Block optionID="11" optionName="АМП-4 прот.R3 + ИО101.. + Астра-С + Астра-5" format="A2#H"/>
+		<Block optionID="12" optionName="АМП-4 прот.R3 + СПЖ, СДУ ит.д" format="A3#H"/>
+	</Scheme>
+	<Scheme id="10" blockName="RC-TSP-RUBEZH-SHUNVUK-1">
+		<Block optionID="1" optionName="ШУН/В-УК прот.R3" format="A3#H"/>
+		<Block optionID="3" optionName="ШУН/В-УК прот.R3 + Калорифер + Вентилятор" format="A3#H"/>
+		<Block optionID="5" optionName="ШУН/В-УК прот.R3 + Калорифер + Вентилятор + Датчики" format="A3#H"/>
+	</Scheme>
+	<Scheme id="11" blockName="RC-TSP-RUBEZH-SHUNVUK-1">
+		<Block optionID="2" optionName="ШУН/В-О-УК прот.R3" format="A3#H"/>
+		<Block optionID="4" optionName="ШУН/В-О-УК прот.R3 + Калорифер + Вентилятор" format="A3#H"/>
+		<Block optionID="6" optionName="ШУН/В-О-УК прот.R3 + Калорифер + Вентилятор + Датчики" format="A3#H"/>
+	</Scheme>
+	<Scheme id="12" blockName="RC-TSP-RUBEZH-SHUNV-1">
+		<Block optionID="1" optionName="ШУН/В прот.R3" format="A4#H"/>
+		<Block optionID="3" optionName="ШУН/В прот.R3 + Вентилятор/насос" format="A3#H"/>
+		<Block optionID="5" optionName="ШУН/В прот.R3 + Вентилятор/насос + Датчики" format="A3#H"/>
+	</Scheme>
+	<Scheme id="13" blockName="RC-TSP-RUBEZH-SHUNV-1">
+		<Block optionID="2" optionName="ШУН/В-О прот.R3" format="A4#H"/>
+		<Block optionID="4" optionName="ШУН/В-О прот.R3 + Вентилятор/насос" format="A3#H"/>
+		<Block optionID="6" optionName="ШУН/В-О прот.R3 + Вентилятор/насос + Датчики" format="A3#H"/>
+	</Scheme>
+	<Scheme id="14" blockName="RC-TSP-RUBEZH-MKD2-1">
+		<Block optionID="1" optionName="МКД-2 прот.R3" format="A3#H"/>
+		<Block optionID="2" optionName="МКД-2 прот.R3 + двухпроходная точка" format="A3#H"/>
+		<Block optionID="3" optionName="МКД-2 прот.R3 + однопроходная точка" format="A3#H"/>
+		<Block optionID="4" optionName="МКД-2 прот.R3 + турникет + считыватели + датчики" format="A3#H"/>
+		<Block optionID="5" optionName="МКД-2 прот.R3 + шлагбаум + считыватели + датчики" format="A3#H"/>
+	</Scheme>
+	<Scheme id="15" blockName="RC-TSP-RUBEZH-SHUZ-1">
+		<Block optionID="1" optionName="ШУЗ прот.R3" format="A3#H"/>
+		<Block optionID="3" optionName="ШУЗ прот.R3 + Задвижка + датчики" format="A3#V"/>
+	</Scheme>
+	<Scheme id="16" blockName="RC-TSP-RUBEZH-SHUZ-1">
+		<Block optionID="2" optionName="ШУЗ-О прот.R3" format="A3#H"/>
+		<Block optionID="4" optionName="ШУЗ-О прот.R3 + Задвижка + датчики" format="A3#V"/>
+	</Scheme>
+	<Scheme id="17" blockName="RC-TSP-RUBEZH-AMP10-1">
+		<Block optionID="1" optionName="АМП-10 прот.R3" format="A4#H"/>
+		<Block optionID="2" optionName="АМП-10 прот.R3 + ИП212.." format="A2#H"/>
+		<Block optionID="3" optionName="АМП-10 прот.R3 + ИП212.. + ОПОП2-35" format="A2#H"/>
+		<Block optionID="4" optionName="АМП-10 прот.R3 + ИП212.. + ОПОП2-35 + ОПОП1-8" format="A2#H"/>
+		<Block optionID="5" optionName="АМП-10 прот.R3 + ИП101.." format="A2#H"/>
+		<Block optionID="6" optionName="АМП-10 прот.R3 + ИП101.. + ОПОП2-35" format="A2#H"/>
+		<Block optionID="7" optionName="АМП-10 прот.R3 + ИП101.. + ОПОП2-35 + ОПОП1-8" format="A2#H"/>
+		<Block optionID="8" optionName="АМП-10 прот.R3 + ИП212-52 + ОПОП2-35 + ОПОП1-8" format="A2#H"/>
+		<Block optionID="9" optionName="АМП-10 прот.R3 + Спектрон-401 + ОПОП2-35 + ОПОП1-8" format="A2#H"/>
+		<Block optionID="10" optionName="АМП-10 прот.R3 + ИО101.. + Астра-С + Астра-5" format="A2#H"/>
+		<Block optionID="11" optionName="АМП-10 прот.R3 + СПЖ, СДУ ит.д" format="A2#H"/>
+	</Scheme>
+	<Scheme id="18" blockName="RC-TSP-RUBEZH-PPK-1">
+		<Block optionID="1" optionName="Рубеж-2ОП прот.R3" format="A4#V"/>
+	</Scheme>
+	<Scheme id="19" blockName="RC-TSP-RUBEZH-PPK-1">
+		<Block optionID="2" optionName="КАУ-2 прот.R3" format="A4#V"/>
+	</Scheme>
+	<Scheme id="20" blockName="RC-TSP-RUBEZH-PPK-1">
+		<Block optionID="3" optionName="КАУ-1 прот.R3" format="A4#V"/>
+	</Scheme>
+	<Scheme id="72" blockName="RC-TSP-RUBEZH-PPK-1">
+		<Block optionID="4" optionName="Рубеж-2ПБ прот.R3 (для РБ)" format="A4#V"/>
+	</Scheme>
+	<Scheme id="21" blockName="RC-TSP-RUBEZH-BIPDU-1">
+		<Block optionID="1" optionName="Рубеж-БИ" format="A4#V"/>
+	</Scheme>
+	<Scheme id="22" blockName="RC-TSP-RUBEZH-BIPDU-1">
+		<Block optionID="2" optionName="Рубеж-БИУ" format="A4#V"/>
+	</Scheme>
+	<Scheme id="23" blockName="RC-TSP-RUBEZH-BIPDU-1">
+		<Block optionID="3" optionName="Рубеж-ПДУ" format="A4#V"/>
+	</Scheme>
+	<Scheme id="24" blockName="RC-TSP-RUBEZH-BIPDU-1">
+		<Block optionID="4" optionName="Рубеж-ПДУ-ПТ" format="A4#V"/>
+	</Scheme>
+	<Scheme id="25" blockName="RC-TSP-RUBEZH-IP-1">
+		<Block optionID="1" optionName="ИП212-64 прот.R3" format="A4#V"/>
+	</Scheme>
+	<Scheme id="26" blockName="RC-TSP-RUBEZH-IP-1">
+		<Block optionID="2" optionName="ИП212-164 прот.R3" format="A4#V"/>
+	</Scheme>
+	<Scheme id="27" blockName="RC-TSP-RUBEZH-IP-1">
+		<Block optionID="3" optionName="ИП101-29PR прот.R3" format="A4#V"/>
+	</Scheme>
+	<Scheme id="28" blockName="RC-TSP-RUBEZH-IP-1">
+		<Block optionID="4" optionName="ИП212/101-64-PR прот.R3" format="A4#V"/>
+	</Scheme>
+	<Scheme id="29" blockName="RC-TSP-RUBEZH-IP-1">
+		<Block optionID="5" optionName="ИПР513-11-А-R3" format="A4#V"/>
+	</Scheme>
+	<Scheme id="30" blockName="RC-TSP-RUBEZH-IP-1">
+		<Block optionID="6" optionName="УДП513-11 прот.R3"  format="A4#V"/>
+	</Scheme>
+	<Scheme id="96" blockName="RC-TSP-RUBEZH-IP-1">
+		<Block optionID="7" optionName="ТЮЛЬПАН R3"  format="A4#V"/>
+	</Scheme>
+	<Scheme id="78" blockName="RC-TSP-RUBEZH-IP-1">
+		<Block optionID="8" optionName="ИПДЛ264/1 прот.R3"  format="A4#V"/>
+	</Scheme>
+	<Scheme id="79" blockName="RC-TSP-RUBEZH-IP-1">
+		<Block optionID="9" optionName="ИПДЛ264/2 прот.R3" format="A4#V"/>
+	</Scheme>
+	<Scheme id="87" blockName="RC-TSP-RUBEZH-IP-1">
+		<Block optionID="10" optionName="ИПР513-11ИКЗ-А-R3" format="A4#V"/>
+	</Scheme>	
+	<Scheme id="97" blockName="RC-TSP-RUBEZH-IP-1">
+		<Block optionID="11" optionName="ИП212-64-R3 с ИЗ-1Б-R3" format="A4#V"/>
+	</Scheme>
+	<Scheme id="98" blockName="RC-TSP-RUBEZH-IP-1">
+		<Block optionID="12" optionName="ИП101-29-PR-R3 с ИЗ-1Б-R3" format="A4#V"/>
+	</Scheme>	
+	<Scheme id="99" blockName="RC-TSP-RUBEZH-IP-1">
+		<Block optionID="13" optionName="ИП212/101-64-PR-R3 с ИЗ-1Б-R3" format="A4#V"/>
+	</Scheme>
+	<Scheme id="31" blockName="RC-TSP-RUBEZH-OPOPR3-1">
+		<Block optionID="1" optionName="ОПОП1-R3"  format="A4#V"/>
+	</Scheme>
+	<Scheme id="32" blockName="RC-TSP-RUBEZH-OPOPR3-1">
+		<Block optionID="2" optionName="ОПОП124-R3" format="A4#V"/>
+	</Scheme>
+	<Scheme id="34" blockName="RC-TSP-RUBEZH-IO-1">
+		<Block optionID="1" optionName="ИО10220-2" format="A4#V"/>
+	</Scheme>
+	<Scheme id="35" blockName="RC-TSP-RUBEZH-IO-1">
+		<Block optionID="2" optionName="ИО30920-2" format="A4#V"/>
+	</Scheme>
+	<Scheme id="36" blockName="RC-TSP-RUBEZH-IO-1">
+		<Block optionID="3" optionName="ИО32920-2" format="A4#V"/>
+	</Scheme>
+	<Scheme id="37" blockName="RC-TSP-RUBEZH-IO-1">
+		<Block optionID="4" optionName="ИО42920-2" format="A4#V"/>
+	</Scheme>
+	<Scheme id="38" blockName="RC-TSP-RUBEZH-MS-1">
+		<Block optionID="1" optionName="МС-1" format="A4#H"/>
+	</Scheme>
+	<Scheme id="39" blockName="RC-TSP-RUBEZH-MS-1">
+		<Block optionID="2" optionName="МС-2" format="A4#H"/>
+	</Scheme>
+	<Scheme id="40" blockName="RC-TSP-RUBEZH-MS-1">
+		<Block optionID="3" optionName="МС-3 + Альтоника" format="A4#H"/>
+	</Scheme>
+	<Scheme id="41" blockName="RC-TSP-RUBEZH-MS-1">
+		<Block optionID="4" optionName="МС-4 + Navidard" format="A4#H"/>
+	</Scheme>
+	<Scheme id="42" blockName="RC-TSP-RUBEZH-MS-1">
+		<Block optionID="5" optionName="МС-Е" format="A4#H"/>
+	</Scheme>
+	<Scheme id="43" blockName="RC-TSP-RUBEZH-MS-1">
+		<Block optionID="6" optionName="УОО-ТЛ" format="A4#H"/>
+		<Block optionID="7" optionName="УОО-ТЛ + Контакт GSM 5RT-1" format="A4#H"/>
+		<Block optionID="8" optionName="УОО-ТЛ + Плата MS-RS Стрелец-мониторинг" format="A4#H"/>	
+	</Scheme>
+	<Scheme id="44" blockName="RC-TSP-RUBEZH-MS-1">
+		<Block optionID="9" optionName="МС-КП" format="A4#H"/>
+	</Scheme>
+	<Scheme id="45" blockName="RC-TSP-RUBEZH-MS-1">
+		<Block optionID="10" optionName="МС-ПИ" format="A4#H"/>
+	</Scheme>
+	<Scheme id="46" blockName="RC-TSP-RUBEZH-MS-1">
+		<Block optionID="11" optionName="МС-Ш" format="A4#H"/>
+	</Scheme>
+	<Scheme id="47" blockName="RC-TSP-RUBEZH-MS-1">
+		<Block optionID="12" optionName="МС-Р прот.R3" format="A4#H"/>
+	</Scheme>
+	<Scheme id="48" blockName="RC-TSP-RUBEZH-IVEPR-1">
+		<Block optionID="1" optionName="ИВЭПР 12/... БР прот.R3 (адресный)" format="A4#V"/>
+	</Scheme>
+	<Scheme id="49" blockName="RC-TSP-RUBEZH-IVEPR-1">
+		<Block optionID="2" optionName="ИВЭПР 24/... БР прот.R3 (адресный)" format="A4#V"/>
+	</Scheme>
+	<Scheme id="50" blockName="RC-TSP-RUBEZH-IVEPR-1">
+		<Block optionID="3" optionName="ИВЭПР 12/...-Р-БР" format="A4#V"/>
+	</Scheme>
+	<Scheme id="51" blockName="RC-TSP-RUBEZH-IVEPR-1">
+		<Block optionID="4" optionName="ИВЭПР 24/...-Р-БР" format="A4#V"/>
+	</Scheme>
+	<Scheme id="52" blockName="RC-TSP-RUBEZH-IVEPR-1">
+		<Block optionID="5" optionName="ИВЭПР 12/...-Р" format="A4#V"/>
+	</Scheme>
+	<Scheme id="53" blockName="RC-TSP-RUBEZH-IVEPR-1">
+		<Block optionID="6" optionName="ИВЭПР 24/...-Р" format="A4#V"/>
+	</Scheme>
+	<Scheme id="54" blockName="RC-TSP-RUBEZH-KRK1-1">
+		<Block optionID="1" optionName="КРК-4-БС прот.R3" format="A4#V"/>
+		<Block optionID="3" optionName="КРК-4-БС прот.R3 + КРК-30-АЛС прот.R3" format="A4#V"/>
+	</Scheme>
+	<Scheme id="55" blockName="RC-TSP-RUBEZH-KRK1-1">
+		<Block optionID="2" optionName="КРК-30-АЛС прот.R3" format="A4#V"/>
+		<Block optionID="3" optionName="КРК-4-БС прот.R3 + КРК-30-АЛС прот.R3" format="A4#V"/>
+	</Scheme>
+	<Scheme id="56" blockName="RC-TSP-RUBEZH-IZ1-1">
+		<Block optionID="1" optionName="ИЗ-1 прот.R3" format="A4#V"/>
+	</Scheme>
+	<Scheme id="57" blockName="RC-TSP-RUBEZH-IZ1-1">
+		<Block optionID="2" optionName="ИЗ-1Б прот.R3" format="A4#V"/>
+	</Scheme>
+	<Scheme id="58" blockName="RC-TSP-RUBEZH-AMP2-1">
+		<Block optionID="1" optionName="АМП-2 ЕХ прот.R3" format="A4#H"/>
+		<Block optionID="2" optionName="АМП-2 EX прот.R3 + ИП101«Гранат» + ИПР535«Гранат-МД»" format="A3#H"/>
+		<Block optionID="3" optionName="АМП-2 ЕХ прот.R3 + ИП212«Дымфикс» + ИПР535«Гарант-МД»" format="A3#H"/>
+		<Block optionID="4" optionName="АМП-2 ЕХ прот.R3 + ИПР535«Гарант-М» + ИП329«Иолит-ЕХ»" format="A3#H"/>
+	</Scheme>
+	<Scheme id="59" blockName="RC-TSP-RUBEZH-RM1K-2">
+		<Block optionID="1" optionName="РМ-1К ЕХ прот.R3" format="A3#H"/>
+		<Block optionID="2" optionName="РМ-1К ЕХ прот.R3 + МПП" format="A3#H"/>
+		<Block optionID="3" optionName="РМ-1К ЕХ прот.R3 + оповещатель" format="A3#H"/>
+	</Scheme>
+	<Scheme id="60" blockName="RC-TSP-RUBEZH-MDU1-1">
+		<Block optionID="1" optionName="МДУ-1 прот.R3" format="A3#H"/>
+		<Block optionID="2" optionName="МДУ-1 прот.R3 + реверсивный привод" format="A3#H"/>
+		<Block optionID="3" optionName="МДУ-1 прот.R3 + реверсивный привод (КМОМ)" format="A3#H"/>
+		<Block optionID="4" optionName="МДУ-1 прот.R3 + электромеханический привод" format="A3#H"/>
+		<Block optionID="5" optionName="МДУ-1 прот.R3 + электромеханический привод (КМОМ)" format="A3#H"/>
+		<Block optionID="6" optionName="МДУ-1 прот.R3 + электромагнитный привод" format="A3#H"/>
+		<Block optionID="7" optionName="МДУ-1 прот.R3 + электромагнитный привод (КМОМ)" format="A3#H"/>
+	</Scheme>
+	<Scheme id="61" blockName="RC-TSP-RUBEZH-IM1-1">
+		<Block optionID="1" optionName="ИМ-1 прот.R3 + считыватель" format="A4#V"  isDynBlock="false"/>
+	</Scheme>
+	<Scheme id="62" blockName="RC-TSP-RUBEZH-AKP1-1">
+		<Block optionID="1" optionName="АКП-1 прот.R3" format="A4#V"  isDynBlock="false"/>
+	</Scheme>
+	<Scheme id="63" blockName="RC-TSP-RUBEZH-MRO2M-1">
+		<Block optionID="1" optionName="МРО-2М прот.R3" format="A2#H"/>
+		<Block optionID="2" optionName="МРО-2М прот.R3 + Sonar (8Ом)" format="A2#H"/>
+		<Block optionID="3" optionName="МРО-2М прот.R3 + 2хSonar (8Ом) (последовательно)" format="A2#H"/>
+		<Block optionID="4" optionName="МРО-2М прот.R3 + 2хSonar (8Ом) (параллельно)" format="A2#H"/>
+		<Block optionID="5" optionName="МРО-2М прот.R3 + 4хSonar (8Ом)" format="A2#H"/>
+		<Block optionID="6" optionName="МРО-2М прот.R3 + 6хSonar (8Ом)" format="A2#H"/>
+		<Block optionID="7" optionName="МРО-2М прот.R3 + 8хSonar (8Ом)" format="A2#H"/>
+	</Scheme>
+	<Scheme id="64" blockName="RC-TSP-RUBEZH-SPM-1">
+		<Block optionID="1" optionName="Sonar SPM-A01xxx-AW (адресный)" format="A2#H"/>
+	</Scheme>
+	<Scheme id="65" blockName="RC-TSP-RUBEZH-SPM-1">
+		<Block optionID="2" optionName="Sonar SPM-A01xxx-DW (неадресный)" format="A2#H"/>
+	</Scheme>
+	<Scheme id="66" blockName="RC-TSP-RUBEZH-SPM-1">
+		<Block optionID="3" optionName="Sonar SPM-B10xx-AW/AR (адресный)" format="A2#H"/>
+	</Scheme>
+	<Scheme id="67" blockName="RC-TSP-RUBEZH-SPM-1">
+		<Block optionID="4" optionName="Sonar SPM-B10xx-DW/DR (неадресный)" format="A2#H"/>
+	</Scheme>
+	<Scheme id="68" blockName="RC-TSP-RUBEZH-SPM-1">
+		<Block optionID="5" optionName="Sonar SPM-B20xx-AW/AR (адресный)" format="A2#H"/>
+	</Scheme>
+	<Scheme id="69" blockName="RC-TSP-RUBEZH-SPM-1">
+		<Block optionID="6" optionName="Sonar SPM-B20xx-DW/DR (неадресный)" format="A2#H"/>
+	</Scheme>
+	<Scheme id="70" blockName="RC-TSP-RUBEZH-SPM-1">
+		<Block optionID="7" optionName="Sonar SPM-C20xx-AW/AR (адресный)" format="A2#H"/>
+	</Scheme>
+	<Scheme id="71" blockName="RC-TSP-RUBEZH-SPM-1">
+		<Block optionID="8" optionName="Sonar SPM-C20xx-DW/DR (неадресный)" format="A2#H"/>
+	</Scheme>
+	<Scheme id="73" blockName="RC-TSP-RUBEZH-MRK30A-1">
+		<Block optionID="1" optionName="МРК-30А прот.R3" format="A4#V"  isDynBlock="false"/>
+	</Scheme>
+	<Scheme id="74" blockName="RC-TSP-RUBEZH-MRRK-1">
+		<Block optionID="1" optionName="МР-РК ALEKSA" format="A4#V"  isDynBlock="false"/>
+	</Scheme>
+	<Scheme id="75" blockName="RC-TSP-RUBEZH-MSHSRK-1">
+		<Block optionID="1" optionName="МШС-РК ALEKSA" format="A4#V"/>
+		<Block optionID="2" optionName="МШС-РК ALEKSA + устройства (НЗ)" format="A4#V"/>
+		<Block optionID="3" optionName="МШС-РК ALEKSA + устройства (НР)" format="A4#V"/>
+	</Scheme>	
+	<Scheme id="80" blockName="RC-TSP-RUBEZH-MS-R3">
+		<Block optionID="1" optionName="R3-МС" format="A4#V"/>
+	</Scheme>
+	<Scheme id="81" blockName="RC-TSP-RUBEZH-MS-R3">
+		<Block optionID="2" optionName="R3-МС-Е" format="A4#V"/>
+	</Scheme>
+	<Scheme id="82" blockName="RC-TSP-RUBEZH-PPK-2">
+		<Block optionID="1" optionName="R3-Рубеж-2ОП" format="A4#V"/>
+	</Scheme>
+	<Scheme id="83" blockName="RC-TSP-RUBEZH-PPK-2">
+		<Block optionID="2" optionName="R3-КАУ2" format="A4#V"/>
+	</Scheme>
+	<Scheme id="84" blockName="RC-TSP-RUBEZH-BIPDU-2">
+		<Block optionID="1" optionName="R3-Рубеж-БИУ" format="A4#V"/>
+	</Scheme>
+	<Scheme id="85" blockName="RC-TSP-RUBEZH-BIPDU-2">
+		<Block optionID="2" optionName="R3-Рубеж-ПДУ" format="A4#V"/>
+	</Scheme>
+	<Scheme id="86" blockName="RC-TSP-RUBEZH-BIPDU-2">
+		<Block optionID="3" optionName="R3-Рубеж-ПДУ-ПТ" format="A4#V"/>
+	</Scheme>
+	<Scheme id="88" blockName="RC-TSP-RUBEZH-STR-1">
+		<Block optionID="1" optionName="STR-1AP" format="A3#H"/>
+		<Block optionID="2" optionName="STR-1AP+однопроходная ТД" format="A3#H"/>
+		<Block optionID="3" optionName="STR-1AP+двухпроходная ТД" format="A3#H"/>
+	</Scheme>
+	<Scheme id="89" blockName="RC-TSP-RUBEZH-STR-2">
+		<Block optionID="1" optionName="STR-1AP-М" format="A3#H"/>
+		<Block optionID="2" optionName="STR-1AP-М+однопроходная ТД" format="A3#H"/>
+		<Block optionID="3" optionName="STR-1AP-М+двухпроходная ТД" format="A3#H"/>
+	</Scheme>
+	<Scheme id="90" blockName="RC-TSP-RUBEZH-STR-3">
+		<Block optionID="1" optionName="STR-2AP-М" format="A3#H"/>
+		<Block optionID="2" optionName="STR-2AP-М+однопроходная ТД" format="A3#H"/>
+		<Block optionID="3" optionName="STR-2AP-М+двухпроходная ТД" format="A3#H"/>
+	</Scheme>
+	<Scheme id="91" blockName="RC-TSP-RUBEZH-STR-4">
+		<Block optionID="1" optionName="STR-3AP-М" format="A3#H"/>
+		<Block optionID="2" optionName="STR-3AP-М+однопроходная ТД" format="A3#H"/>
+		<Block optionID="3" optionName="STR-3AP-М+двухпроходная ТД" format="A3#H"/>
+	</Scheme>
+	<Scheme id="92" blockName="RC-TSP-RUBEZH-STR-5">
+		<Block optionID="1" optionName="STR20-IP" format="A3#H"/>
+		<Block optionID="2" optionName="STR20-IP+модуль доступа" format="A3#H"/>
+	</Scheme>
+	<Scheme id="93" blockName="RC-TSP-RUBEZH-STR-6">
+		<Block optionID="1" optionName="STR20-IP-Ent" format="A3#H"/>
+		<Block optionID="2" optionName="STR20-IP-Ent+модуль доступа" format="A3#H"/>
+	</Scheme>
+	<Scheme id="94" blockName="RC-TSP-RUBEZH-STR-7">
+		<Block optionID="1" optionName="STR20-1AP-IP-M" format="A3#H"/>
+		<Block optionID="2" optionName="STR20-1AP-IP-M+модуль доступа" format="A3#H"/>
+	</Scheme>
+	<Scheme id="95" blockName="RC-TSP-RUBEZH-STR-8">
+		<Block optionID="1" optionName="STR20-2AP-IP-M" format="A3#H"/>
+		<Block optionID="2" optionName="STR20-2AP-IP-M+модуль доступа" format="A3#H"/>
+	</Scheme>
+</SchemeList>

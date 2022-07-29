@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Iveprs> 
+  <Iveprs12Addr>
+    <Ivepr order="0" I="1.2" C="4.5" name="ИВЭПР 12/2 RSR 2х7 -Р БР" br="" iveprC="14" article="RBZ-052442" />
+    <Ivepr order="1" I="1.5" C="7" name="ИВЭПР 12/2 RSR 2х7 -Р БР" br="" iveprC="14" article="RBZ-052442" />
+    <Ivepr order="2" I="2" C="7" name="ИВЭПР 12/2 RSR 2х7 -Р БР" br="" iveprC="14" article="RBZ-052442" />
+    <Ivepr order="3" I="2" C="14" name="ИВЭПР 12/2 RSR 2х7 -Р БР" br="" iveprC="14" article="RBZ-052442" />
+    <Ivepr order="4" I="2" C="24" name="ИВЭПР 12/2 RSR 2х12 -Р БР" br="" iveprC="24" article="RBZ-119546" />
+    <Ivepr order="5" I="2" C="34" name="ИВЭПР 12/2 RSR 2х17 -Р БР" br="" iveprC="34" article="RBZ-119545" />
+    <Ivepr order="6" I="2" C="38" name="ИВЭПР 12/2 RSR 2х7 -Р БР" br="БР12 2х12" iveprC="14" article="RBZ-052442" />
+    <Ivepr order="7" I="2" C="48" name="ИВЭПР 12/2 RSR 2х12 -Р БР" br="БР12 2х12" iveprC="24" article="RBZ-119546" />
+    <Ivepr order="8" I="2" C="58" name="ИВЭПР 12/2 RSR 2х12 -Р БР" br="БР12 2х17" iveprC="24" article="RBZ-119546" />
+    <Ivepr order="9" I="2" C="68" name="ИВЭПР 12/2 RSR 2х17 -Р БР" br="БР12 2х17" iveprC="34" article="RBZ-119545" />
+    <Ivepr order="10" I="2" C="76" name="ИВЭПР 12/2 RSR 2х12 -Р БР" br="БР12 2х40 с АКБ 2х26" iveprC="24" article="RBZ-119546" />
+    <Ivepr order="11" I="2" C="76" name="ИВЭПР 12/2 RSR 2х17 -Р БР" br="*" iveprC="34" article="RBZ-119545" />
+    <Ivepr order="12" I="3.5" C="14" name="ИВЭПР 12/3.5 RSR 2х7 -Р БР" br="" iveprC="14" article="RBZ-114729" />
+    <Ivepr order="13" I="3.5" C="24" name="ИВЭПР 12/3.5 RSR 2х12 -Р БР" br="" iveprC="24" article="RBZ-119543" />
+    <Ivepr order="14" I="3.5" C="34" name="ИВЭПР 12/3.5 RSR 2х17 -Р БР" br="" iveprC="34" article="RBZ-119544" />
+    <Ivepr order="15" I="3.5" C="38" name="ИВЭПР 12/3.5 RSR 2х7 -Р БР" br="БР12 2х12" iveprC="14" article="RBZ-114729" />
+    <Ivepr order="16" I="3.5" C="48" name="ИВЭПР 12/3.5 RSR 2х12 -Р БР" br="БР12 2х12" iveprC="24" article="RBZ-119543" />
+    <Ivepr order="17" I="3.5" C="58" name="ИВЭПР 12/3.5 RSR 2х12 -Р БР" br="БР12 2х17" iveprC="24" article="RBZ-119543" />
+    <Ivepr order="18" I="3.5" C="68" name="ИВЭПР 12/3.5 RSR 2х17 -Р БР" br="БР12 2х17" iveprC="34" article="RBZ-119544" />
+    <Ivepr order="19" I="3.5" C="76" name="ИВЭПР 12/3.5 RSR 2х12 -Р БР" br="БР12 2х40 с АКБ 2х26" iveprC="24" article="RBZ-119543" />
+    <Ivepr order="20" I="3.5" C="86" name="ИВЭПР 12/3.5 RSR 2х17 -Р БР" br="БР12 2х40 с АКБ 2х26" iveprC="34" article="RBZ-119544" />
+    <Ivepr order="21" I="3.5" C="104" name="ИВЭПР 12/3.5 RSR 2х12 -Р БР" br="БР12 2х40" iveprC="24" article="RBZ-119543" />
+    <Ivepr order="22" I="3.5" C="114" name="ИВЭПР 12/3.5 RSR 2х17 -Р БР" br="БР12 2х40" iveprC="34" article="RBZ-119544" />
+    <Ivepr order="23" I="3.5" C="114" name="ИВЭПР 12/3.5 RSR 2х17 -Р БР" br="*" iveprC="34" article="RBZ-119544" />
+    <Ivepr order="24" I="5" C="14" name="ИВЭПР 12/5 RSR 2х7 -Р БР" br="" iveprC="14" article="RBZ-119548" />
+    <Ivepr order="25" I="5" C="24" name="ИВЭПР 12/5 RSR 2х12 -Р БР" br="" iveprC="24" article="RBZ-119547" />
+    <Ivepr order="26" I="5" C="34" name="ИВЭПР 12/5 RSR 2х17 -Р БР" br="" iveprC="34" article="RBZ-119549" />
+    <Ivepr order="27" I="5" C="38" name="ИВЭПР 12/5 RSR 2х7 -Р БР" br="БР12 2х12" iveprC="14" article="RBZ-119548" />
+    <Ivepr order="28" I="5" C="48" name="ИВЭПР 12/5 RSR 2х12 -Р БР" br="БР12 2х12" iveprC="24" article="RBZ-119547" />
+    <Ivepr order="29" I="5" C="52" name="ИВЭПР 12/5 RSR 2х12 -Р БР" br="БР12 2х17" iveprC="24" article="RBZ-119547" />
+    <Ivepr order="30" I="5" C="58" name="ИВЭПР 12/5 RSR 2х12 -Р БР" br="БР12 2х17" iveprC="24" article="RBZ-119547" />
+    <Ivepr order="31" I="5" C="68" name="ИВЭПР 12/5 RSR 2х17 -Р БР" br="БР12 2х17" iveprC="34" article="RBZ-119549" />
+    <Ivepr order="32" I="5" C="76" name="ИВЭПР 12/5 RSR 2х12 -Р БР" br="БР12 2х40 с АКБ 2х26" iveprC="24" article="RBZ-119547" />
+    <Ivepr order="33" I="5" C="80" name="ИВЭПР 12/5 RSR 2х17 -Р БР" br="БР12 2х40 с АКБ 2х26" iveprC="34" article="RBZ-119549" />
+    <Ivepr order="34" I="5" C="86" name="ИВЭПР 12/5 RSR 2х17 -Р БР" br="БР12 2х40 с АКБ 2х26" iveprC="34" article="RBZ-119549" />
+    <Ivepr order="35" I="5" C="104" name="ИВЭПР 12/5 RSR 2х12 -Р БР" br="БР12 2х40" iveprC="24" article="RBZ-119547" />
+    <Ivepr order="36" I="5" C="114" name="ИВЭПР 12/5 RSR 2х17 -Р БР" br="БР12 2х40" iveprC="34" article="RBZ-119549" />
+    <Ivepr order="37" I="5" C="132" name="ИВЭПР 12/5 RSR 2х17 -Р БР" br="*" iveprC="34" article="RBZ-119549" />
+    <Ivepr order="38" I="5" C="160" name="ИВЭПР 12/5 RSR 2х17 -Р БР" br="*" iveprC="34" article="RBZ-119549" />
+    <Ivepr order="39" I="5" C="160" name="ИВЭПР 12/5 RSR 2х17 -Р БР" br="*" iveprC="34" article="RBZ-119549" />
+  </Iveprs12Addr>
+  <Iveprs12Noaddr>
+    <Ivepr order="0" I="1.2" C="4.5" name="ИВЭПР 12/1.2 1х4.5" br="" iveprC="4.5" article="RBZ-052421" />
+    <Ivepr order="1" I="1.5" C="7" name="ИВЭПР 12/1.5 1х7" br="" iveprC="7" article="RBZ-052424" />
+    <Ivepr order="2" I="2" C="7" name="ИВЭПР 12/2 1х7" br="" iveprC="7" article="RBZ-052430" />
+    <Ivepr order="3" I="2" C="14" name="ИВЭПР 12/2 2х7" br="" iveprC="14" article="RBZ-052435" />
+    <Ivepr order="4" I="2" C="24" name="ИВЭПР 12/2 2х12 БР" br="" iveprC="24" article="RBZ-052433" />
+    <Ivepr order="5" I="2" C="34" name="ИВЭПР 12/3.5 2х17 БР" br="" iveprC="34" article="RBZ-052462" />
+    <Ivepr order="6" I="2" C="38" name="ИВЭПР 12/2 2х12 БР" br="БР12 2х12 с АКБ 2х7" iveprC="24" article="RBZ-052433" />
+    <Ivepr order="7" I="2" C="48" name="ИВЭПР 12/2 2х12 БР" br="БР12 2х12" iveprC="24" article="RBZ-052433" />
+    <Ivepr order="8" I="2" C="58" name="ИВЭПР 12/2 2х12 БР" br="БР12 2х17" iveprC="24" article="RBZ-052433" />
+    <Ivepr order="9" I="2" C="68" name="ИВЭПР 12/2 2х12 БР" br="БР12 2х40 с АКБ 2х26" iveprC="24" article="RBZ-052433" />
+    <Ivepr order="10" I="2" C="76" name="ИВЭПР 12/2 2х12 БР" br="БР12 2х40 с АКБ 2х26" iveprC="24" article="RBZ-052433" />
+    <Ivepr order="11" I="2" C="76" name="ИВЭПР 12/2 2х12 БР" br="*" iveprC="24" article="RBZ-052433" />
+    <Ivepr order="12" I="3.5" C="14" name="ИВЭПР 12/3.5 2х7" br="" iveprC="14" article="RBZ-052463" />
+    <Ivepr order="13" I="3.5" C="24" name="ИВЭПР 12/3.5 2х12 БР" br="" iveprC="24" article="RBZ-052460" />
+    <Ivepr order="14" I="3.5" C="34" name="ИВЭПР 12/3.5 2х17 БР" br="" iveprC="34" article="RBZ-052462" />
+    <Ivepr order="15" I="3.5" C="38" name="ИВЭПР 12/3.5 2х12 БР" br="БР12 2х12 с АКБ 2х7" iveprC="24" article="RBZ-052460" />
+    <Ivepr order="16" I="3.5" C="48" name="ИВЭПР 12/3.5 2х12 БР" br="БР12 2х12" iveprC="24" article="RBZ-052460" />
+    <Ivepr order="17" I="3.5" C="58" name="ИВЭПР 12/3.5 2х12 БР" br="БР12 2х17" iveprC="24" article="RBZ-052460" />
+    <Ivepr order="18" I="3.5" C="68" name="ИВЭПР 12/3.5 2х17 БР" br="БР12 2х17" iveprC="34" article="RBZ-052462" />
+    <Ivepr order="19" I="3.5" C="76" name="ИВЭПР 12/3.5 2х12 БР" br="БР12 2х40 с АКБ 2х26" iveprC="24" article="RBZ-052460" />
+    <Ivepr order="20" I="3.5" C="86" name="ИВЭПР 12/3.5 2х17 БР" br="БР12 2х40 с АКБ 2х26" iveprC="34" article="RBZ-052462" />
+    <Ivepr order="21" I="3.5" C="104" name="ИВЭПР 12/3.5 2х12 БР" br="БР12 2х40" iveprC="24" article="RBZ-052460" />
+    <Ivepr order="22" I="3.5" C="114" name="ИВЭПР 12/3.5 2х17 БР" br="БР12 2х40" iveprC="34" article="RBZ-052462" />
+    <Ivepr order="23" I="3.5" C="114" name="ИВЭПР 12/3.5 2х17 БР" br="*" iveprC="34" article="RBZ-052462" />
+    <Ivepr order="24" I="5" C="14" name="ИВЭПР 12/5 2х7" br="" iveprC="14" article="RBZ-052485" />
+    <Ivepr order="25" I="5" C="24" name="ИВЭПР 12/5 2х12 БР" br="" iveprC="24" article="RBZ-052482" />
+    <Ivepr order="26" I="5" C="34" name="ИВЭПР 12/5 2х17 БР" br="" iveprC="34" article="RBZ-052484" />
+    <Ivepr order="27" I="5" C="38" name="ИВЭПР 12/5 2х40 БР с АКБ 2х26" br="" iveprC="52" article="RBZ-150415" />
+    <Ivepr order="28" I="5" C="48" name="ИВЭПР 12/5 2х40 БР с АКБ 2х26" br="" iveprC="52" article="RBZ-150415" />
+    <Ivepr order="29" I="5" C="52" name="ИВЭПР 12/5 2х40 БР с АКБ 2х26" br="" iveprC="52" article="RBZ-150415" />
+    <Ivepr order="30" I="5" C="58" name="ИВЭПР 12/5 2х12 БР" br="БР12 2х17" iveprC="24" article="RBZ-052482" />
+    <Ivepr order="31" I="5" C="68" name="ИВЭПР 12/5 2х40 БР" br="" iveprC="80" article="RBZ-150415" />
+    <Ivepr order="32" I="5" C="76" name="ИВЭПР 12/5 2х40 БР" br="" iveprC="80" article="RBZ-150415" />
+    <Ivepr order="33" I="5" C="80" name="ИВЭПР 12/5 2х40 БР" br="" iveprC="80" article="RBZ-150415" />
+    <Ivepr order="34" I="5" C="86" name="ИВЭПР 12/5 2х17 БР" br="БР12 2х40 с АКБ 2х26" iveprC="34" article="RBZ-052484" />
+    <Ivepr order="35" I="5" C="104" name="ИВЭПР 12/5 2х12 БР" br="БР12 2х40" iveprC="24" article="RBZ-052482" />
+    <Ivepr order="36" I="5" C="114" name="ИВЭПР 12/5 2х17 БР" br="БР12 2х40" iveprC="34" article="RBZ-052484" />
+    <Ivepr order="37" I="5" C="132" name="ИВЭПР 12/5 2х40 БР с АКБ 2х26" br="БР12 2х40" iveprC="52" article="RBZ-150415" />
+    <Ivepr order="38" I="5" C="160" name="ИВЭПР 12/5 2х40 БР" br="БР12 2х40" iveprC="80" article="RBZ-150415" />
+    <Ivepr order="39" I="5" C="160" name="ИВЭПР 12/5 2х40 БР" br="*" iveprC="80" article="RBZ-150415" />
+  </Iveprs12Noaddr>
+  <Iveprs24>
+    <Ivepr order="0" I="1.5" C="7" name="ИВЭПР 24/1.5 2х7" br="" iveprC="14" article="RBZ-052540" />
+    <Ivepr order="1" I="2.5" C="12" name="ИВЭПР 24/2.5 2х12 БР" br="" iveprC="24" article="RBZ-052552" />
+    <Ivepr order="2" I="2.5" C="17" name="ИВЭПР 24/2.5 2х17 БР" br="" iveprC="34" article="RBZ-052555" />
+    <Ivepr order="3" I="2.5" C="17" name="ИВЭПР 24/2.5 2х17 БР" br="*" iveprC="34" article="RBZ-052555" />
+    <Ivepr order="4" I="3.5" C="7" name="ИВЭПР 24/3.5 2х7" br="" iveprC="14" article="RBZ-052567" />
+    <Ivepr order="5" I="3.5" C="12" name="ИВЭПР 24/3.5 2х12 БР" br="" iveprC="24" article="RBZ-052562" />
+    <Ivepr order="6" I="3.5" C="17" name="ИВЭПР 24/3.5 2х17 БР" br="" iveprC="34" article="RBZ-052565" />
+    <Ivepr order="7" I="3.5" C="17" name="ИВЭПР 24/3.5 2х17 БР" br="*" iveprC="34" article="RBZ-052565" />
+    <Ivepr order="8" I="5" C="12" name="ИВЭПР 24/5 2х12 БР" br="" iveprC="24" article="RBZ-052572" />
+    <Ivepr order="9" I="5" C="17" name="ИВЭПР 24/5 2х17 БР" br="" iveprC="34" article="RBZ-052576" />
+    <Ivepr order="10" I="5" C="17" name="ИВЭПР 24/5 2х17 БР" br="*" iveprC="34" article="RBZ-052576" />
+  </Iveprs24>
+</Iveprs>

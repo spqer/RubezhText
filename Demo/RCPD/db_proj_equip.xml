@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EquipmentList>
+  <Equipment article="RBZ-091601" type="Equipment" isInSpec="true" positType="address" schmEqGroupName="РМ-1С-R3" enableCustomDescr="true" ugoName="RC-UGO-RM-07" schemeName="RC-TSP-RUBEZH-RM-1S" units="шт." addressCnt="1" replGrpId="34" websiteURL="http://td.rubezh.ru/products/detail.php?ID=5767" сurConsumpAlsStandby="0.0004" сurConsumpAlsAlarm="0.0004" handle="48D#1024162" positName="xSCy.z" positText="SC" cablingHeight="0" mountingHeight="2" dwgId="2099619938" predFact="" customDescr="" аdditionalInfo="" akbInf="">
+    <ports count="3">
+      <port name="АЛС" supportedLsType="address" lsName="" />
+      <port name="Управление 1" supportedLsType="notif_sound;notif_light;control;power12;power220" lsName="" />
+      <port name="Управление 2" supportedLsType="notif_sound;notif_light;control;power12;power220" lsName="" />
+    </ports>
+  </Equipment>
+  <Equipment article="RBZ-091592" type="Equipment" isInSpec="true" positType="address" schmEqGroupName="РМ-1-R3" enableCustomDescr="true" ugoName="RC-UGO-RM-01" schemeName="RC-TSP-RUBEZH-RM-1" units="шт." addressCnt="1" replGrpId="34" websiteURL="http://td.rubezh.ru/products/detail.php?ID=5767" сurConsumpAlsStandby="0.00018" сurConsumpAlsAlarm="0.00018" handle="46B#1024051" positName="xSCy.z" positText="SC" cablingHeight="0" mountingHeight="2" dwgId="2099619938" predFact="" customDescr="" аdditionalInfo="" akbInf="">
+    <ports count="3">
+      <port name="АЛС" supportedLsType="address" lsName="" />
+      <port name="Управление 1" supportedLsType="notif_sound;notif_light;control;power12;power220" lsName="" />
+      <port name="Управление 2" supportedLsType="notif_sound;notif_light;control;power12;power220" lsName="" />
+    </ports>
+  </Equipment>
+</EquipmentList>
