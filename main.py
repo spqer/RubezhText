@@ -2,7 +2,7 @@
 
 from docx import Document
 from bs4 import BeautifulSoup
-
+import pymorphy2
 
 # Задаем все переменные в значении FALSE
 # Адресные устройства
@@ -68,7 +68,14 @@ fd.close()
 # так что придется ввести их руками.
 # Настройки проекта, которые мы не получим из Ркада.
 
-ObjectName = 'Торгового центра'  # в родительном падеже
+
+# Кусок для перевода в родительный пажед
+# morph = pymorphy2.MorphAnalyzer()
+# Name = morph.parse('Торговый центр')[0]
+# ObjectName = Name.inflect({'gent'})
+# print(ObjectName.word)
+
+ObjectName = 'Торгового центра'
 ObjectAdr = 'Санкт-Петербург, Дворцовая пл., д.1'
 PostOhrany = '115'
 
@@ -95,9 +102,7 @@ if SAvpvExist:
 if AuptExist:
     a.add_run(', системы автоматического пожаротушения ')
 
-
 a.add_run(ObjectName + ' расположенного по адресу: ' + ObjectAdr + ' разработана на основании технического задания и исходных данных, полученных от Заказчика.')
-
 
 document.add_paragraph('1.2 Проектом предлагается оснащение  следующими системами:')
 
