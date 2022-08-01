@@ -2,21 +2,9 @@
 
 from docx import Document
 from bs4 import BeautifulSoup
-import pymorphy2
+# import pymorphy2
 
 # Задаем все переменные в значении FALSE
-# Адресные устройства
-IP21264_Exist = False
-IP10129PR_Exist = False
-IPR51311_Exist = False
-# РМ любой
-RM_Exist = False
-
-# Проверяем существование в проекте оборудования
-UOO_Exist = False
-Strelec = True
-BUI_Exist = False
-Rubezh_2OP_Exist = False
 
 # Проверяем существование в проекте систем
 # Надо подумать как гарантировать их наличие....
@@ -26,6 +14,28 @@ SApdvExist = True
 SAvpvExist = True
 AuptExist = True
 
+# Адресные устройства
+IP21264_Exist = False
+IP10129PR_Exist = False
+IPR51311_Exist = False
+MDU_Exist = False
+
+RM_Exist = False  # РМ-1(4)
+RM_k_Exist = False  # РМ-1(4)К
+AM_Exist = False  # АМ-1(4)
+UDP_d_Exist = False  # с изолятором и без
+
+IVEPR_Neadr_Exist = False
+IVEPR_Adr_Exist = False
+
+SHUV_Exist = False
+
+
+# Проверяем существование в проекте оборудования
+UOO_Exist = False
+Strelec = True
+BUI_Exist = False
+Rubezh_2OP_Exist = False
 
 # С помощью BS ищем значения article в файле проекта
 # Если находим там оборудование, меняем значение на True
@@ -49,6 +59,20 @@ for tag in soup.findAll("equipment"):
     if tag['article'] == 'RBZ-091601' or tag['article'] == 'RBZ-091592':  # РМ1 или РМ1С
         RM_Exist = True
 
+    if tag['article'] == 'RBZ-330819' or tag['article'] == 'RBZ-055425':  # УДП дымоудаления с изолятором или без
+        UDP_d_Exist = True
+
+    if tag['article'] == 'RBZ-091600' or tag['article'] == 'RBZ-091618':  # РМ-1К или РМ-4К
+        RM_k_Exist = True
+
+    if tag['article'] == 'RBZ-042083' or tag['article'] == 'RBZ-042095':  # АМ-1 или АМ-4
+        AM_Exist = True
+
+    # МДУ-1 если он существует, то предполагаем что дымоудаление существует
+    # SApdvExist
+    if tag['article'] == 'RBZ-070956' or tag['article'] == 'RBZ-148273':  # МДУ-1 или МДУ-1С
+        SApdvExist = True
+        MDU_Exist = True
 
     if tag['article'] == 'RBZ-092565':  # Рубеж-БИУ
         BUI_Exist = True
@@ -58,6 +82,15 @@ for tag in soup.findAll("equipment"):
     if tag['article'] == 'RBZ-337602':  # МС-ТЛ
         UOO_Exist = True
 
+# Проверим существование ивэпра адресного и неадресного
+    if tag['article'] == 'RBZ-052421' or tag['article'] == 'RBZ-210556' or tag['article'] == 'RBZ-052425' or tag['article'] == 'RBZ-052430' or tag['article'] == 'RBZ-052431' or tag['article'] == 'RBZ-052435' or tag['article'] == 'RBZ-052438' or tag['article'] == 'RBZ-257410' or tag['article'] == 'RBZ-052432' or tag['article'] == 'RBZ-052433' or tag['article'] == 'RBZ-052463' or tag['article'] == 'RBZ-052464' or tag['article'] == 'RBZ-161519' or tag['article'] == 'RBZ-052459' or tag['article'] == 'RBZ-052460' or tag['article'] == 'RBZ-052461' or tag['article'] == 'RBZ-052462' or tag['article'] == 'RBZ-052485' or tag['article'] == 'RBZ-052486' or tag['article'] == 'RBZ-052487' or tag['article'] == 'RBZ-052481' or tag['article'] == 'RBZ-174282' or tag['article'] == 'RBZ-052482' or tag['article'] == 'RBZ-052483' or tag['article'] == 'RBZ-052484' or tag['article'] == 'RBZ-150415' or tag['article'] == 'RBZ-052538' or tag['article'] == 'RBZ-052539' or tag['article'] == 'RBZ-052540' or tag['article'] == 'RBZ-052537' or tag['article'] == 'RBZ-052551' or tag['article'] == 'RBZ-052552' or tag['article'] == 'RBZ-052554' or tag['article'] == 'RBZ-052555' or tag['article'] == 'RBZ-052567' or tag['article'] == 'RBZ-052568' or tag['article'] == 'RBZ-215518' or tag['article'] == 'RBZ-052561' or tag['article'] == 'RBZ-052562' or tag['article'] == 'RBZ-052564' or tag['article'] == 'RBZ-052565' or tag['article'] == 'RBZ-052579' or tag['article'] == 'RBZ-052573' or tag['article'] == 'RBZ-052575' or tag['article'] == 'RBZ-052576' or tag['article'] == 'RBZ-052578' or tag['article'] == 'RBZ-285653':  # любой ИВЭПР неадресный
+        IVEPR_Neadr_Exist = True
+
+    if tag['article'] == 'RBZ-216595' or tag['article'] == 'RBZ-216597' or tag['article'] == 'RBZ-216598' or tag['article'] == 'RBZ-216599' or tag['article'] == 'RBZ-237672' or tag['article'] == 'RBZ-216603' or tag['article'] == 'RBZ-216604' or tag['article'] == 'RBZ-216605' or tag['article'] == 'RBZ-216606' or tag['article'] == 'RBZ-246268' or tag['article'] == 'RBZ-237688' or tag['article'] == 'RBZ-237686' or tag['article'] == 'RBZ-237687' or tag['article'] == 'RBZ-221327' or tag['article'] == 'RBZ-227711' or tag['article'] == 'RBZ-227712' or tag['article'] == 'RBZ-237691' or tag['article'] == 'RBZ-237689' or tag['article'] == 'RBZ-237690' or tag['article'] == 'RBZ-237693' or tag['article'] == 'RBZ-237695' or tag['article'] == 'RBZ-237694' or tag['article'] == '$$$503' or tag['article'] == '$$$504':  # ИВЭПР адресный
+        IVEPR_Adr_Exist = True
+
+    if tag['article'] == 'RBZ-119910' or tag['article'] == 'RBZ-119908' or tag['article'] == 'RBZ-119911' or tag['article'] == 'RBZ-119907' or tag['article'] == 'RBZ-119912' or tag['article'] == 'RBZ-119906' or tag['article'] == 'RBZ-119913' or tag['article'] == 'RBZ-109423' or tag['article'] == 'RBZ-119914' or tag['article'] == 'RBZ-119905' or tag['article'] == 'RBZ-119915' or tag['article'] == 'RBZ-109435' or tag['article'] == 'RBZ-109437' or tag['article'] == 'RBZ-119904' or tag['article'] == 'RBZ-109425' or tag['article'] == 'RBZ-109427' or tag['article'] == 'RBZ-119903' or tag['article'] == 'RBZ-109432' or tag['article'] == 'RBZ-119902' or tag['article'] == 'RBZ-119901' or tag['article'] == 'RBZ-119900' or tag['article'] == 'RBZ-109438' or tag['article'] == 'RBZ-119897' or tag['article'] == 'RBZ-119898' or tag['article'] == 'RBZ-119899' or tag['article'] == 'RBZ-191477' or tag['article'] == 'RBZ-191755':  # ШУНВ без учета ШУНВ с УПП, и без учета ШУНВ с ПЧ, и без учета калориферов
+        SHUV_Exist = True
 
 fd.close()
 
@@ -170,6 +203,8 @@ if ApsExist:
         document.add_paragraph('адресные ручные пожарные извещатели «ИПР 513-11-А-R3»;', style='List Bullet')
     if RM_Exist:
         document.add_paragraph('адресные релейные модули «РМ-1(С) прот. R3»;', style='List Bullet')
+    if MDU_Exist:
+        document.add_paragraph('адресные модули автоматики дымоудаления «МДУ-1(С) прот. R3»;', style='List Bullet')
 
     b = document.add_paragraph('Для обнаружения  возгорания в помещениях применены ')
     if IP21264_Exist:
@@ -203,17 +238,56 @@ if ApsExist:
     if RM_Exist:
         document.add_paragraph('Выдача управляющих сигналов происходит при помощи адресных релейных модулей «РМ-1 прот. R3», «РМ-1С прот. R3», которые путем размыкания/замыкания контактов реле выдают сигналы на аппаратуру управления соответствующей инженерной системой. Режим работы контакта релейного модуля определяется в соответствии с алгоритмом работы системы и документацией на аппаратуру управления.')
 
+
+# СОУЭ
 if SoueExist:
     document.add_paragraph('Система оповещения и управления эвакуацией')
 
+# Противодымная вентиляция
 if SApdvExist:
     document.add_paragraph('Система автоматизации противодымной защиты')
+    document.add_paragraph('В состав системы автоматизации противодымной защиты входят следующие устройства и исполнительные блоки:')
+    if Rubezh_2OP_Exist:
+        document.add_paragraph('прибор приемно-контрольный и управления охранно-пожарный «Рубеж-2ОП прот. R3»;', style='List Bullet')
+    if UDP_d_Exist:
+        document.add_paragraph('устройства дистанционного пуска «УДП 513-11-R3» (Пуск дымоудаления);', style='List Bullet')
+    if RM_k_Exist:
+        document.add_paragraph('адресные релейные модули с контролем целостности цепи «РМ-1К прот. R3» и «РМ-4К прот. R3»;', style='List Bullet')
+    if AM_Exist:
+        document.add_paragraph('метки адресные «АМ-4 прот. R3»;', style='List Bullet')
+    if MDU_Exist:
+        document.add_paragraph('адресные модули управления клапаном «МДУ-1 прот. R3»;', style='List Bullet')
+    if IVEPR_Adr_Exist:
+        document.add_paragraph('источники вторичного электропитания резервированные «ИВЭПР RS-R3».', style='List Bullet')
+    if IVEPR_Neadr_Exist:
+        document.add_paragraph('источники вторичного электропитания резервированные «ИВЭПР».', style='List Bullet')
 
+    document.add_paragraph('Согласно требованиям СП7.13130.2013 проектом предусмотрено управление системой противодымной защиты в автоматическом (автоматической пожарной сигнализации), дистанционном (от устройства дистанционного пуска «УДП 513-11-R3» (Пуск дымоудаления), установленных у эвакуационных выходов с этажей или в пожарных шкафах и с ППКОПУ «Рубеж-2ОП», установленного на посту пожарной охраны) режимах.')
+    if MDU_Exist:
+        document.add_paragraph('Для управления клапанами дымоудаления используются модули «МДУ-1 прот. R3», обеспечивающие открытие клапанов в автоматическом режиме от сигнала ППКОПУ. При возникновении пожара и срабатывании системы автоматической пожарной сигнализации ППКОПУ выдает сигнал на запуск модуля управления клапаном дымоудаления «МДУ-1 прот. R3», который путем коммутации цепи напряжения на электропривод переводит заслонку клапана, расположенного в зоне возгорания, в защитное положение. ')
+    document.add_paragraph('Согласно требованиям CП7.13130.2013 заданная последовательность действия систем противодымной вентиляции должна обеспечивать опережающее включение вытяжной противодымной вентиляции от 20 до 30 с относительно момента запуска приточной противодымной вентиляции.')
+    if not SHUV_Exist:
+        document.add_paragraph('Для управления и контроля шкафов дымоудаления и подпора используются коммутационные устройства УК-ВК исп.10, подключеные к выходу адресного релейного модуля «РМ-К прот. R3», метки адресные «АМ-4 прот. R3».')
+    else:
+        document.add_paragraph('Для дымоудаления успользуются адресные шкафы ШУН\В')
+
+
+# Разделить на тушение с МПТ, тушение с насосной, тушение с автономными модулями с АМ
 if AuptExist:
     document.add_paragraph('Система автоматического пожаротушения')
 
+
+
+
+
+# Внутренний водопровод.
 if SAvpvExist:
     document.add_paragraph('Система автоматизации внутреннего противопожарного водопровода')
+
+
+
+
+
 
 # Раздел 3 - Электроснабжение
 document.add_paragraph('Электроснабжение установки', style='List Number')

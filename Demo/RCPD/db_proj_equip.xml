@@ -1,5 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <EquipmentList>
+  <Equipment article="RBZ-337473" type="Equipment" isInSpec="true" positType="address" schmEqGroupName="ИП212-64 прот.R3" ugoName="RC-UGO-IDTA-01" schemeName="RC-TSP-RUBEZH-IP-212-64" units="шт." addressCnt="1" replGrpId="5" websiteURL="http://td.rubezh.ru/products/detail.php?ID=5772" сurConsumpAlsStandby="0.0002" сurConsumpAlsAlarm="0.0002" handle="692#12004440" positName="xBTHy.z" positText="BTH" cablingHeight="30" mountingHeight="2" dwgId="2099619938" predFact="" FrAlrmZoneNum="" аdditionalInfo="" akbInf="">
+    <ports count="1">
+      <port name="АЛС" supportedLsType="address" lsName="" />
+    </ports>
+  </Equipment>
+  <Equipment article="RBZ-337473" type="Equipment" isInSpec="true" positType="address" schmEqGroupName="ИП212-64 прот.R3" ugoName="RC-UGO-IDTA-01" schemeName="RC-TSP-RUBEZH-IP-212-64" units="шт." addressCnt="1" replGrpId="5" websiteURL="http://td.rubezh.ru/products/detail.php?ID=5772" сurConsumpAlsStandby="0.0002" сurConsumpAlsAlarm="0.0002" handle="5A5#1004335" positName="xBTHy.z" positText="BTH" cablingHeight="30" mountingHeight="2" dwgId="2099619938" predFact="" FrAlrmZoneNum="" аdditionalInfo="" akbInf="">
+    <ports count="1">
+      <port name="АЛС" supportedLsType="address" lsName="" />
+    </ports>
+  </Equipment>
+  <Equipment article="RBZ-170093" type="Equipment" isInSpec="true" positType="address" schmEqGroupName="ИП101-29-PR прот.R3" ugoName="RC-UGO-ITTA-01" schemeName="RC-TSP-RUBEZH-IP-101-29-PR" units="шт." addressCnt="1" replGrpId="5" websiteURL="http://td.rubezh.ru/products/detail.php?ID=5771" сurConsumpAlsStandby="0.0002" сurConsumpAlsAlarm="0.0002" handle="4EE#1004194" positName="xBTKy.z" positText="BTK" cablingHeight="0" mountingHeight="2" dwgId="2099619938" predFact="" FrAlrmZoneNum="" аdditionalInfo="" akbInf="">
+    <ports count="1">
+      <port name="АЛС" supportedLsType="address" lsName="" />
+    </ports>
+  </Equipment>
+  <Equipment article="RBZ-317532" type="Equipment" isInSpec="true" positType="address" schmEqGroupName="ИПР513-11-А-R3" ugoName="RC-UGO-IRA-01" schemeName="RC-TSP-RUBEZH-IPR-513-11" units="шт." addressCnt="1" replGrpId="5" websiteURL="http://td.rubezh.ru/products/detail.php?ID=5774" сurConsumpAlsStandby="0.00012" сurConsumpAlsAlarm="0.00012" handle="4C5#1004123" positName="xBTMy.z" positText="BTM" cablingHeight="1.5" mountingHeight="1.5" dwgId="2099619938" predFact="" FrAlrmZoneNum="" аdditionalInfo="" akbInf="">
+    <ports count="1">
+      <port name="АЛС" supportedLsType="address" lsName="" />
+    </ports>
+  </Equipment>
   <Equipment article="RBZ-091601" type="Equipment" isInSpec="true" positType="address" schmEqGroupName="РМ-1С-R3" enableCustomDescr="true" ugoName="RC-UGO-RM-07" schemeName="RC-TSP-RUBEZH-RM-1S" units="шт." addressCnt="1" replGrpId="34" websiteURL="http://td.rubezh.ru/products/detail.php?ID=5767" сurConsumpAlsStandby="0.0004" сurConsumpAlsAlarm="0.0004" handle="48D#1024162" positName="xSCy.z" positText="SC" cablingHeight="0" mountingHeight="2" dwgId="2099619938" predFact="" customDescr="" аdditionalInfo="" akbInf="">
     <ports count="3">
       <port name="АЛС" supportedLsType="address" lsName="" />
